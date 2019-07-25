@@ -1,5 +1,5 @@
 # U.S. 🇺🇸 startups in India 🇮🇳
-A list of startups [headquartered](https://en.wikipedia.org/wiki/Corporate_headquarters) in the U.S. and having engineering office(s) in India.
+A list of startups [headquartered](https://en.wikipedia.org/wiki/Corporate_headquarters) in the U.S. and having engineering office(s) in India. The U.S.-based startups running [Sales Engineering](https://en.wikipedia.org/wiki/Sales_engineering) (some common job titles include *Solutions Architect*, *Developer Advocate*, *Customer Success Engineer*, etc.) in India can also be included.
 
 ## A - C
 - [Aerospike](https://www.aerospike.com/company/careers/) | Bangalore | #KeyValueStore #NoSQL
@@ -19,12 +19,13 @@ A list of startups [headquartered](https://en.wikipedia.org/wiki/Corporate_headq
 ## M - O
 
 ## P - R
+- [Redis Labs](https://redislabs.com/company/careers/) | Bangalore, New Delhi | #KeyValueStore #InMemoryDatabase #NoSQL
 - [Rippling](https://jobs.lever.co/rippling) | Bangalore | #HRAutomation #ITAutomation
 
 ## S - U
 - [Stripe](https://stripe.com/jobs) | Bangalore | #PaymentProcessor
 - [Sumo Logic](https://www.sumologic.com/company/careers/) | Noida | #LogAnalytics #LogManagement
-- [Udacity](https://www.udacity.com/jobs) | Delhi | #MOOC #OnlineLearning
+- [Udacity](https://www.udacity.com/jobs) | New Delhi | #MOOC #OnlineLearning
 
 ## V - X
 
