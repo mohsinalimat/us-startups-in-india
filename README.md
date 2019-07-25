@@ -1,4 +1,5 @@
 # U.S. 🇺🇸 startups in India 🇮🇳
+A list of startups [headquartered](https://en.wikipedia.org/wiki/Corporate_headquarters) in the U.S. and having engineering office(s) in India.
 
 ## A - C
 - [Aerospike](https://www.aerospike.com/company/careers/) | Bangalore | #KeyValueStore #NoSQL
