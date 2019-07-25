@@ -19,6 +19,7 @@ A list of startups [headquartered](https://en.wikipedia.org/wiki/Corporate_headq
 ## M - O
 
 ## P - R
+- [Qubole](https://www.qubole.com/company/careers/) | Bangalore | #BigData #DataLake #MachineLearning #ETL
 - [Redis Labs](https://redislabs.com/company/careers/) | Bangalore, New Delhi | #KeyValueStore #InMemoryDatabase #NoSQL
 - [Rippling](https://jobs.lever.co/rippling) | Bangalore | #HRAutomation #ITAutomation
 
