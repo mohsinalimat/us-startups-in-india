@@ -1,0 +1,10 @@
+- [Confluent](https://www.confluent.io/careers) | Bangalore | #BigData #StreamingAnalytics #ApacheKafka
+- [Stripe](https://stripe.com/jobs) | Bangalore | #PaymentProcessing
+- [Fivetran](https://fivetran.com/careers) | Bangalore | #BigData #ETL #DataWarehouse
+- [Databricks](https://databricks.com/company/careers) | Bangalore | #BigData #ApacheSpark
+- [Dgraph](https://dgraph.io/careers) | Bangalore | #NoSQL #GraphDatabases #GraphQL
+- [Imply](https://imply.io/careers) | Bangalore | #BigData #ApacheDruid
+- [Aerospike](https://www.aerospike.com/company/careers/) | Bangalore | #NoSQL
+- [Drishti](https://drishti.com/careers/) | Bangalore | #ComputerVision #MachineLearning #Manufacturing
+- [Udacity](https://www.udacity.com/jobs) | Delhi | #MOOC #OnlineLearning
+- [Sumo Logic](https://www.sumologic.com/company/careers/) | Noida | #LogAnalytics
